@@ -14,7 +14,7 @@ body{
 p{
    font-family:Courier;
    color: blue;
-   font-size: 40px;
+   font-size: 20px;
    font-weight:bold;
    background-color:black;
 }
@@ -22,7 +22,7 @@ a{
       text-decoration: none;
       color: red;
       font-family:cursive;
-      font-size:20px;
+      font-size:30px;
 }
 img{
     height:600px;
