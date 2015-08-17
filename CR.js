@@ -1,6 +1,6 @@
  confirm("Hello! My name is conversation robot!");
 var youAge= prompt("Just between us, what is your age?");
-if(youAge>12){console.log("Oh! My maker is just 12 years old.");
+if(youAge>13){console.log("Oh! My maker is just 13 years old.");
 }else{console.log("All right, yes, okay.");}
 confirm("Right. i am about to ask you a difficult and pointless question!");
 var protonNumber= prompt("What is the number of protons in the nucleus of an ununoctium atom?");
@@ -14,4 +14,4 @@ console.log("all right. your name is...");
 console.log(name);
 console.log("your age is...");
 console.log(youAge);
-console.log("so... i cannot think of much to say now, so... goodbye!")
+console.log("so... i cannot think of much to say now, goodbye!")
