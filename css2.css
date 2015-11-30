@@ -1,7 +1,7 @@
 h1 {font-family:Perfect Dark BRK, sans-serif;
 color: green;
  background-image:url(http://reptilesofaustralia.com/lizards/geckos/nmill.jpg);
- font-size:24px;
+ font-size:60px;
  border:2px solid blue;
  text-align:center;
 }                       
@@ -13,7 +13,6 @@ p{
    color: blue;
    font-size: 20px;
    font-weight:bold;
-   background-color:black;
 }
 a{
       text-decoration: none;
