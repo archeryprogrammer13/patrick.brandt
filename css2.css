@@ -4,6 +4,8 @@ color: green;
  font-size:60px;
  border:2px solid blue;
  text-align:center;
+ height:100px;
+ width: 200px;
 }                       
 body{
      background-color:green;
@@ -16,7 +18,7 @@ p{
 }
 a{
       text-decoration: none;
-      color: red;
+      color: purple;
       font-family:cursive;
       font-size:20px;
 }
