@@ -1,6 +1,6 @@
 h1 {font-family:Perfect Dark BRK, sans-serif;
 color: green;
- background-image:url(http://www.car-revs-daily.com/file/2014/03/2014-NISSAN-ZEOD-RC-Animated-GIF-white-lightning-header-graphic.gif);
+ background-image:url(http://img1.wikia.nocookie.net/__cb20060514160802/starwars/images/c/ce/Original_Y-wing.jpg);
  font-size:55px;
  border:4px solid blue;
  text-align:center;
@@ -8,8 +8,7 @@ color: green;
  height:100px;
 }                       
 body{
-     background-image:url(http://www.officialpsds.com/images/stocks/Tech-Background-stock6691.jpg);
-     background-color:black;
+     background-color:green;
 }
 p{
    font-family:Courier;
