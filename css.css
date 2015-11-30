@@ -46,8 +46,8 @@ body>div>div{
           height:60px;
 }
 span>div{
-     background-color:green;
-     border-color:blue;
+     background-color:blue;
+     border-color:red;
      height:60px;
 }
 body>span>div>div{
