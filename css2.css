@@ -6,7 +6,6 @@ color: green;
  text-align:center;
  height:150px;
  width: 600px;
- margin:auto;
 }                       
 body{
      background-color:green;
@@ -42,7 +41,7 @@ div{
     margin:auto;
 }
 span>div{
-     background-color:yellow;
+     background-color:green;
      border-color:blue;
 }
 p>span{
