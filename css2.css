@@ -8,17 +8,17 @@ color: green;
  width: 600px;
 }                       
 body{
-     background-color:08ABF2;
+     background-color:#08abf2;
 }
 p{
    font-family:Courier;
-   color:05DA5B;
+   color:#05da5b;
    font-size: 20px;
    font-weight:bold;
 }
 a{
       text-decoration: none;
-      color:2039D6;
+      color:#2039d6;
       font-family:cursive;
       font-size:20px;
 }
