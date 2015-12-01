@@ -33,7 +33,7 @@ iframe{
        border:4px solid blue;
 }
 div{
-    border-color:red;
+    border-color:#0e94cf;
     border-style:solid;
     border-radius:10px;
     text-align:center;
@@ -47,7 +47,7 @@ body>div>div{
 }
 span>div{
      background-color:green;
-     border-color:red;
+     border-color:#0e94cf;
      height:60px;
 }
 body>span>div>div{
@@ -57,7 +57,7 @@ body>span>div>div{
 }
 p>span{
         background-color:green;
-        border:3px dotted red;
+        border:3px dotted #0e94cf;
         color:blue;
 }
 span>span>div{
