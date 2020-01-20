@@ -1,1 +1,21 @@
+---
+layout: post
+title: "I'm Back!"
+date: 2020-01-20
+categories:
+  - It's a Blog!!!
+description: "After a few years of procrastination and losing the webpage, I've got this thing running again."
+image: /pics/me3.jpg
+image-sm: /pics/me1.jpg
+---
+I guess I neglected this page for so long mainly because I couldn't be bothered to update it, but, then again, it was offline for quite some time.
 
+Still, it's rather interesting to think that I was only 14 years old when I last touched this webpage. That was almost four years ago, and I am now legally an adult.
+
+I think it's fair to say that I have a lot of things to say: I went to Augustine Academy in 2018, and started a three-year course at Campion College the year after. I will shortly commence my second year of this course, a year which I anticipate very eagerly. I highly recommend both the Academy and Campion to anyone interested; besides the fascinating and enriching topics of study, the social life on campus is well worth it.
+
+Anyway, that will be covered in more detail in other posts, which may be dated to the time they should have been written instead of the time they will be written. Just so you know.
+
+What will also be covered in later posts is my improved skills in 3D computer graphics with Blender.
+
+That's all for now, and, with any luck, this webpage will soon be a significantly more interesting place. See you!
